@@ -21,8 +21,7 @@
     float: left;
     background-color: white;
     font-family: digitron;
-   
-
+    box-sizing: border-box;
 }
 
 .brojevi,
