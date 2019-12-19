@@ -8,9 +8,9 @@
     font-family: digitron;
     src: url(digital.ttf)
 }
-
 input[type=text] {
-    padding: 1px;
+    overflow: hidden;
+    padding: 5px;
     margin-bottom: 8px;
     height: 25px;
     line-height: 25px;
@@ -21,10 +21,9 @@ input[type=text] {
     float: left;
     background-color: white;
     font-family: digitron;
-    box-sizing: border-box;
+    font-size: 20px;
     outline: none;
 }
-
 .brojevi,
 .fuje {
     margin: 2px;
