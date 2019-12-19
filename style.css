@@ -9,7 +9,7 @@
     src: url(digital.ttf)
 }
 
-#zaglavlje {
+input[type=text] {
     padding: 1px;
     margin-bottom: 8px;
     height: 25px;
